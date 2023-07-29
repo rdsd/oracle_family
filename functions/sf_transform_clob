@@ -1,0 +1,6 @@
+create or replace function sf_transform_clob(i_paragraph in clob)
+return clob
+is
+begin
+    return null;
+end;    
