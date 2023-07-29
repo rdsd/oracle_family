@@ -5,5 +5,5 @@ BEGIN
     
     l_name := 'rert';
     
-    dbms_output.put_line('Name: ' || l_name);--hjhjhh
+    dbms_output.put_line('Name: ' || l_name);--hjhjhhtt1234567
 END sp_test_procedure;
